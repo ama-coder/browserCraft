@@ -7,7 +7,7 @@ developed by ama-coder
 
 developers! develop this!
 
-git hub pages:ama-coder.github.io/browserCraft
+git hub pages:http://ama-coder.github.io/browserCraft
 # new changes:
 input fov from user;
 
