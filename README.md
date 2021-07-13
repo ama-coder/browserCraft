@@ -6,5 +6,6 @@ created by tetete2016;
 developed by ama-coder
 
 # new changes:
-input fov from user
-block right click
+input fov from user;
+
+block right click;
