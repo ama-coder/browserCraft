@@ -2,11 +2,11 @@
 
 ### Todo
 
-- [] add new blocks
-- [] add random generate
-- [] add backend
-- [] add save world
-- [] add stracturs
+- [ ] add new blocks
+- [ ] add random generate
+- [ ] add backend
+- [ ] add save world
+- [ ] add stracturs
 
 ### In Progress 
 
